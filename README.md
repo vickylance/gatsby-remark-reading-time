@@ -1,4 +1,6 @@
-# gatsby-remark-reading-time
+# gatsby-remark-reading-time-v2
+
+**This is a fork of [gatsby-remark-reading-time](https://github.com/syntra/gatsby-remark-reading-time) with fixed gatsy warnings**
 
 Adds a medium-like reading time estimate to your gatsby remark posts. Powered by [`reading-time`](https://github.com/ngryman/reading-time).
 
