@@ -12,14 +12,14 @@ Adds a medium-like reading time estimate to your gatsby remark posts. Powered by
 yarn add gatsby-remark-reading-time
 ```
 
-2. Add to `gatsby-transformer-remark` plugins in `gatsby-config.js`
+2. Add to `gatsby-transformer-remark-v2` plugins in `gatsby-config.js`
 
 ```jsx
   {
     resolve: `gatsby-transformer-remark`,
     options: {
       plugins: [
-        `gatsby-remark-reading-time`,
+        `gatsby-remark-reading-time-v2`,
         // ...
       ],
     },
