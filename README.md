@@ -9,7 +9,7 @@ Adds a medium-like reading time estimate to your gatsby remark posts. Powered by
 1. Install
 
 ```bash
-yarn add gatsby-remark-reading-time
+yarn add gatsby-remark-reading-time-v2
 ```
 
 2. Add to `gatsby-transformer-remark-v2` plugins in `gatsby-config.js`
