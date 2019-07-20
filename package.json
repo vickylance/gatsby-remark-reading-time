@@ -1,7 +1,7 @@
 {
   "name": "gatsby-remark-reading-time-v2",
   "description": "Adds an estimated reading time field to all remark nodes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Garet McKinley <self@garet.io>",
   "license": "MIT",
   "keywords": [
@@ -39,6 +39,6 @@
     "prettier": "1.18.2"
   },
   "peerDependencies": {
-    "gatsby": "^2.0.0"
+    "gatsby": "^2.1.0"
   }
 }
